@@ -1,2 +1,2 @@
 #!/bin/bash
-su vincent staff
+su chown vincent staff
