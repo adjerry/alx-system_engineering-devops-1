@@ -1,2 +1,2 @@
 #!/bin/bash
-su vincent group staff
+chown vincent:staff
