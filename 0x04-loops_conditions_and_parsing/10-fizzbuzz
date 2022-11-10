@@ -1,9 +1,16 @@
 #!/usr/bin/env bash
-# Read and extract fields in file
+# FizzBuzz - print 1 to 100, "Fizz" for multiples of 3,
+# "Buzz" for multiples of 5, and "FizzBuzz" for multiples of 3 and 5
 
-FILE="/etc/passwd"
-
-while read -r LINE
+for (( i=1; i < 101; i++ ))
 do
-    echo "$LINE" | cut -d ":" -f1,3,6
-done < "$FILE"
+    if (( i % 15 == 0 )); then
+	echo "FizzBuzz"
+    elif (( i % 3 == 0 )); then
+	echo "Fizz"
+    elif (( i % 5 == 0 )); then
+	echo "Buzz"
+    else
+	echo "$i"
+    fi
+done
