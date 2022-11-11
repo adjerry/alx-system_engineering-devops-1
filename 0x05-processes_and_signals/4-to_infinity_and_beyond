@@ -1,4 +1,4 @@
-#!/usr/bin/bash/env bash
+#!/usr/bin/env bash
 #Bash to print To infinity and beyond with sleep 2
 #User to interupt with Ctrl-C
 

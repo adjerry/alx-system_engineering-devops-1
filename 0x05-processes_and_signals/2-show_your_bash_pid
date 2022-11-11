@@ -1,4 +1,4 @@
-#!/usr/bin/bash/env bash
+#!/usr/bin/env bash
 #Script to siplay lines with word bash
 # shellcheck disable=SC2009
 # ignore shellcheck suggestion for pgrep
