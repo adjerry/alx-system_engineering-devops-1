@@ -13,4 +13,4 @@
 <p>telnet</p>
 <p>docker</p>
 
-<a href="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01c5a1e3f29d290b188d34be5cf534d3255058a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230121T071736Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0059b570ebef2951364c2c9d50a11ed6f2ec5837df190e810a6d4eabe2ff3335" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01c5a1e3f29d290b188d34be5cf534d3255058a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230121T071736Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0059b570ebef2951364c2c9d50a11ed6f2ec5837df190e810a6d4eabe2ff3335">
