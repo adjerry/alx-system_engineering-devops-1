@@ -2,7 +2,6 @@
 """
 Query Reddit API recursively for all hot articles of a given subreddit
 """
-
 import requests
 
 
