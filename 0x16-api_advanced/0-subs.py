@@ -2,6 +2,7 @@
 """
 Query Reddit API for number of subscribers for a given subreddit
 """
+
 import requests
 
 def number_of_subscribers(subreddit):

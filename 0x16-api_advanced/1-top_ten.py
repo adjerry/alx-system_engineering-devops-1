@@ -6,6 +6,7 @@ first 10 hot posts listed
 
 import requests
 
+
 def top_ten(subreddit):
     """
     titles of the first 10
