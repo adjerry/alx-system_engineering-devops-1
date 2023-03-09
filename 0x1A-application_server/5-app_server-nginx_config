@@ -8,7 +8,7 @@ server {
     root   /home/ubuntu/AirBnB_clone_v4/web_dynamic;  
 
     # Use IP of server as domain name
-    server_name 34.239.147.107;
+    server_name 3.83.253.102;
 
     # Customize HTTP response header
     add_header  X-Served-By 33935-web-01;
